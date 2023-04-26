@@ -1,1 +1,2 @@
-#!/bin/bash sudo /usr/bin/python3 $PYFILE
+#!/bin/bash sudo python3 -c "$PYFILE"
+
